@@ -38,3 +38,5 @@ app.use('/api/comments', commentRoutes);
 app.listen(8000, () => {
   console.log('Server is listening to port 8000');
 });
+
+// Path: commentRoutes.js
